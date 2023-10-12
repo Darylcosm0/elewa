@@ -103,7 +103,7 @@ export const iconsAndTitles: any = {
 
   29: {
     title: 'PAGE-CONTENT.BLOCK.TITLES.KEYWORD-JUMP',
-    icon: 'fas fa-bullseye',
+    icon: '/apps/conv-learning-manager/src/assets/icons/bullseye.svg',
   },
   30: {
     title: 'PAGE-CONTENT.BLOCK.TITLES.EVENT',
